@@ -1,5 +1,8 @@
+# 👋 Hi there:
+I am Samuel Ngigi Nyongo<br>
+
 # 💫 About Me:
-I am Samuel Ngigi Nyongo<br>I am an aspiring Backend Developer<br>I am currently learning Go
+I am an aspiring Backend Developer<br>I am currently learning Go
 
 
 ## 🌐 Socials:
